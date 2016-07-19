@@ -11,3 +11,8 @@ Combination use idea of BI tools and data analytics tools such as R
 [Create Power BI visuals using R](https://powerbi.microsoft.com/en-us/documentation/powerbi-desktop-r-visuals/?cdn=disable)
 
 [What Does R Integration Really Mean For BI Platforms?](http://blogs.forrester.com/boris_evelson/12-08-24-what_does_r_integration_really_mean_for_bi_platforms)
+
+
+[BIG DATA, BUSINESS INTELLIGENCE AND THE PROGRAMMING LANGUAGE “R”](http://cloudtweaks.com/2015/03/big-data-business-intelligence-programming-language-r/)
+
+[R Technologies from Oracle](http://www.oracle.com/technetwork/topics/bigdata/r-offerings-1566363.html)
