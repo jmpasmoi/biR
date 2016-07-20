@@ -16,3 +16,5 @@ Combination use idea of BI tools and data analytics tools such as R
 [BIG DATA, BUSINESS INTELLIGENCE AND THE PROGRAMMING LANGUAGE “R”](http://cloudtweaks.com/2015/03/big-data-business-intelligence-programming-language-r/)
 
 [R Technologies from Oracle](http://www.oracle.com/technetwork/topics/bigdata/r-offerings-1566363.html)
+
+[Examples](https://github.com/jangorecki/dwtools/tree/master/tests)
