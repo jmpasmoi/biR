@@ -2,7 +2,7 @@
 
 Combination use idea of BI tools and data analytics tools such as R
 
-[R in Business Intelligence](http://www.r-bloggers.com/r-in-business-intelligence/&gws_rd=cr&ei=1DeOV9DVBdCF0QTkobSQDg)
+[R in Business Intelligence](http://www.r-bloggers.com/r-in-business-intelligence/)
 
 [Programming with Big Data in R](https://en.wikipedia.org/wiki/Programming_with_Big_Data_in_R)
 
