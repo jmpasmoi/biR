@@ -43,4 +43,8 @@ Combination use idea of BI tools and data analytics tools such as R
 
 [A step-to-step approach to successful Business Intelligence](http://resources.idgenterprise.com/original/AST-0066459_YTW03194CAEN.pdf)
 
+[5 Steps to Making BI Smarter in Big Data Analytics](http://blogs.teradata.com/international/5-steps-to-making-bi-smarter-in-big-data-analytics/)
+
+[BI platform standardization: Step-by-step approach](http://www.computerweekly.com/tip/BI-platform-standardization-Step-by-step-approach)
+
 [Examples](https://github.com/jangorecki/dwtools/tree/master/tests)
