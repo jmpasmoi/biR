@@ -41,4 +41,6 @@ Combination use idea of BI tools and data analytics tools such as R
 
 [R VISUALIZATIONS IN REPORTING SERVICES](http://www.jenunderwood.com/2014/11/18/r-visualizations-in-ssrs/&gws_rd=cr&ei=3T-XV-2aMsfV0ASHsp_YBA)
 
+[A step-to-step approach to successful Business Intelligence](http://resources.idgenterprise.com/original/AST-0066459_YTW03194CAEN.pdf)
+
 [Examples](https://github.com/jangorecki/dwtools/tree/master/tests)
