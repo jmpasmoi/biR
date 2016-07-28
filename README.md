@@ -47,4 +47,6 @@ Combination use idea of BI tools and data analytics tools such as R
 
 [BI platform standardization: Step-by-step approach](http://www.computerweekly.com/tip/BI-platform-standardization-Step-by-step-approach)
 
+[RStudio Server Pro](https://github.com/rstudio/webinars/blob/master/20-RStudio-server-pro-administration/Administering%20RSP.pdf)
+
 [Examples](https://github.com/jangorecki/dwtools/tree/master/tests)
