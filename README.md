@@ -49,4 +49,6 @@ Combination use idea of BI tools and data analytics tools such as R
 
 [RStudio Server Pro](https://github.com/rstudio/webinars/blob/master/20-RStudio-server-pro-administration/Administering%20RSP.pdf)
 
+[R Oracle](https://blogs.oracle.com/R/entry/r_to_oracle_database_connectivity)
+
 [Examples](https://github.com/jangorecki/dwtools/tree/master/tests)
