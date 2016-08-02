@@ -51,4 +51,10 @@ Combination use idea of BI tools and data analytics tools such as R
 
 [R Oracle](https://blogs.oracle.com/R/entry/r_to_oracle_database_connectivity)
 
+[R analytics and Business Intelligence dashboards](http://blog.revolutionanalytics.com/2010/05/webinar-r-analytics-and-business-intelligence-dashboards.html)
+
+[Open Source R Language Could Revolutionize Business Intelligence](http://www.enterpriseappstoday.com/business-intelligence/open-source-r-language-could-revolutionize-business-intelligence-1.html)
+
+[LeaRning Path on R – Step by Step Guide to Learn Data Science on R](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-r-data-science/)
+
 [Examples](https://github.com/jangorecki/dwtools/tree/master/tests)
